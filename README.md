@@ -2,7 +2,7 @@
 
 This repository contains a website design project for restaurants. The project aims to create visually appealing and user-friendly websites for restaurants, enabling them to showcase their menu, provide essential information, and attract potential customers.
 
-**Preview:**https://inspiring-kangaroo-b7b76f.netlify.app/index.html
+Preview: https://inspiring-kangaroo-b7b76f.netlify.app/index.html
 
 ## Project Features
 
