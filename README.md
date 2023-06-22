@@ -21,7 +21,7 @@ This repository contains a website design project for restaurants. The project a
 The project utilizes the following technologies and tools:
 
 - HTML5 and CSS3: For structuring and styling the website layout.
-- JavaScript: To add interactivity and enhance user experience if required.
+- JavaScript: To add interactivity and enhance user experience..
 - Design Tools: Graphics software like Adobe Photoshop or Sketch for creating visually appealing assets.
 
 ## Usage
@@ -38,7 +38,4 @@ To customize it:
 4. Test the website locally to ensure it looks and functions as expected.
 5. Deploy the website to a web server or hosting platform of your choice.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
